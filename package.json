@@ -4,7 +4,8 @@
   "description": "实现WEB记事本",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "grunt lint",
+    "build": "grunt build"
   },
   "repository": {
     "type": "git",
