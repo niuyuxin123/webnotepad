@@ -2,7 +2,6 @@
   "name": "webnotepad",
   "version": "1.0.0",
   "description": "实现WEB记事本",
-  "main": "index.js",
   "scripts": {
     "test": "grunt lint",
     "build": "grunt build"
@@ -11,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/niuyuxin123/webnotepad.git"
   },
-  "keywords": [],
   "author": "niuyuxin123",
   "license": "MIT",
   "bugs": {
