@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "实现WEB记事本",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
-    "build": "grunt build"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
